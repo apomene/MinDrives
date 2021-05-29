@@ -13,4 +13,4 @@ after the consolidation is complete.
 
 Solution:
 
-In order to get the fewest hard drives possible, we must relocate the data, filling up from the bigest hard drive to the smalest. The solution contains the class DiskSpace which contains one method called MinDrive that does exactly this thing. First it sorts the total array descendings. Afterwards it calculates the sum of Used Space. Finally it uses a for loop to add the size of each hard drive, begining from the largest, until we reach the used sum.
+In order to get the fewest hard drives possible, we must relocate the data, filling up from the bigest hard drive to the smalest. The solution contains the class DiskSpace which contains one method called MinDrive that does exactly this thing. First it sorts the total array descending. Afterwards it calculates the sum of Used Space. Finally it uses a for loop to add the size of each hard drive, begining from the largest, until we reach the used sum.
